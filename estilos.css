@@ -1,0 +1,14 @@
+body {
+    width: 940px;
+    margin: 0 auto;
+    background-color: aquamarine;
+}
+h1 {
+    text-align: center;
+}
+#miCanvas {
+    border: groove 2px red;
+    background-image: url("src/pista.png");
+    background-position: left;
+    box-shadow: 10px 10px 10px #888888;
+}
